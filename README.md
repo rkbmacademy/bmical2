@@ -1,2 +1,2 @@
-# bmical2
-BMI Calculator 
+# bmi
+BMI Calculator

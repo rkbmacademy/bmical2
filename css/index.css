@@ -1,0 +1,38 @@
+body {
+    
+	background:url(../img/weight.png);
+
+	background-repeat: repeat-x;
+
+
+    
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 10px solid blue;
+    padding: 25px;
+    margin: 25px;
+}
+
+form {
+    background-color: lightgreen;
+    width: 290px;
+    border: 2px solid blue;
+    padding: 5px;
+    margin: 0px;
+}
+
+
+
